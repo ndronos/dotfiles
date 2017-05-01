@@ -27,5 +27,6 @@ GUI
 
 All
 `update` `upgrade` `dist-upgrade`
+`clean` `autoclean` `autoremove`
 
 
