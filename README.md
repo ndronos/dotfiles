@@ -10,4 +10,5 @@
 
 `nocompatible`
 `nobackup` `noswapfile`
+`title` `ruler` `number` `mouse`
 
