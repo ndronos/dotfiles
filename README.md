@@ -9,4 +9,5 @@
 `~/.vimrc` -> `vimrc` `vimrc-ln.sh`
 
 `nocompatible`
+`nobackup` `noswapfile`
 
