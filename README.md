@@ -11,4 +11,5 @@
 `nocompatible`
 `nobackup` `noswapfile`
 `title` `ruler` `number` `mouse`
+`tabstop` `softtabstop` `expandtab`
 
