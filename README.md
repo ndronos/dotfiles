@@ -39,4 +39,7 @@ All
 `/etc/hosts` 
 `/etc/hostname` 
 
+# user-dirs
+
+`~/.config/user-dirs.dirs`
 
