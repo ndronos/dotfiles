@@ -13,3 +13,16 @@
 `title` `ruler` `number` `mouse`
 `tabstop` `softtabstop` `expandtab`
 
+## apt
+
+CLI
+
+`git` `vim`
+`htop` `tree`
+`wget` `curl`
+
+GUI
+
+`gparted`
+
+
