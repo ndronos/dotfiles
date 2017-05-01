@@ -29,4 +29,9 @@ All
 `update` `upgrade` `dist-upgrade`
 `clean` `autoclean` `autoremove`
 
+## GRUB
+
+`/etc/default/grub`
+`update-grub2`
+
 
