@@ -25,4 +25,7 @@ GUI
 
 `gparted`
 
+All
+`update` `upgrade` `dist-upgrade`
+
 
