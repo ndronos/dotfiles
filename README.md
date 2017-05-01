@@ -57,3 +57,14 @@ $ pm-hibernate
 
 https://help.ubuntu.com/16.04/ubuntu-help/power-hibernate.html
 
+## SSH
+
+Github with SSH
+
+https://help.github.com/articles/connecting-to-github-with-ssh/
+
+`ssh-new.sh` 
+`ssh-add.sh` 
+`ssh-test.sh` 
+
+
