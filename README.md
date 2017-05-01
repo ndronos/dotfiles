@@ -23,7 +23,7 @@ CLI
 
 GUI
 
-`gparted`
+`gparted` `synaptic`
 
 All
 `update` `upgrade` `dist-upgrade`
