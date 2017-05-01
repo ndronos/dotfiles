@@ -34,4 +34,9 @@ All
 `/etc/default/grub`
 `update-grub2`
 
+## hostname new-name
+
+`/etc/hosts` 
+`/etc/hostname` 
+
 
