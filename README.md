@@ -43,3 +43,17 @@ All
 
 `~/.config/user-dirs.dirs`
 
+# hibernate
+
+`enable-hibernate.pkla` <- `enable-hibernate.sh`
+
+```
+$ pm-hibernate
+```
+
+`enable-hibernate.sh`
+
+
+
+https://help.ubuntu.com/16.04/ubuntu-help/power-hibernate.html
+
