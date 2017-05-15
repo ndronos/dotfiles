@@ -67,4 +67,12 @@ https://help.github.com/articles/connecting-to-github-with-ssh/
 `ssh-add.sh` 
 `ssh-test.sh` 
 
+## 
+
+`etc-net-conn.sh`
+
+`/etc/NetworkManager/system-connections/`
+
+
+
 
