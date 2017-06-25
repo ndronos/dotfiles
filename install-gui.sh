@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo apt-get install  \
+apt install  \
   gparted \
   synaptic \
   soundconverter \

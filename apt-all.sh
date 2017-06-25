@@ -1,20 +1,20 @@
 #!/bin/sh
 clear
-echo "apt-get"
+echo "apt"
 
 echo "" && echo "Update" && echo " *"
-sudo apt-get update -y
+apt update -y
 echo "" && echo "Upgrade" && echo " *"
-sudo apt-get upgrade -y
+apt upgrade -y
 echo "" && echo "Dist-upgrade" && echo " *"
-sudo apt-get dist-upgrade -y
+apt dist-upgrade -y
 
 echo "" && echo "Clean" && echo " *"
-sudo apt-get clean -y
+apt clean -y
 echo "" && echo "Autoclean" && echo " *"
-sudo apt-get autoclean -y
+apt autoclean -y
 echo "" && echo "Autoremove" && echo " *"
-sudo apt-get autoremove -y
+apt autoremove -y
 
 echo ""
 
