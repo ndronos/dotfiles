@@ -3,7 +3,7 @@
 apt install  \
   gparted \
   synaptic \
-  soundconverter \
+  soundconverter ubuntu-restricted-extras \
   audacious \
 -y
 
